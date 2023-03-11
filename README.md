@@ -7,11 +7,8 @@
 
 <hr />
 <h4>Game1 : Tutorial 1~4</h4>
-<br />
 <h4>Game2 : Tutorial 5~6</h4>
-<br />
 <h4>Game3 : Tutorial FPS Game</h4>
-<br />
 <br />
 Source code : https://www.youtube.com/playlist?list=PLYQHfkihy4AzWWeI4bfdng2FPb_t7V87o
 <br />
