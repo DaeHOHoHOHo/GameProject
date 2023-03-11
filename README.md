@@ -8,7 +8,9 @@
 <hr />
 Game1 : Tutorial 1~4
 <br />
-Game2 : Tutorial 5~8
+Game2 : Tutorial 5~6
+<br />
+Game3 : Tutorial FPS Game
 <br />
 <br />
 Source code : https://www.youtube.com/playlist?list=PLYQHfkihy4AzWWeI4bfdng2FPb_t7V87o
