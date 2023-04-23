@@ -24,5 +24,4 @@ Source code : https://www.youtube.com/watch?v=Yx3sJlrr9nc&list=PL99e3DcrPCyKyuP6
 <br />
 (1인개발 TV)
 <br />
-3/19 : Project 생성, 3인칭 캐릭터 구현, 캐릭터 조작 구현, 캐릭터 충돌 구현
 <hr />
